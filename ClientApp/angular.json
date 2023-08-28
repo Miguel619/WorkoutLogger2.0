@@ -132,5 +132,8 @@
       }
     }
   },
-  "defaultProject": "WorkoutLogger2._0"
+  "defaultProject": "WorkoutLogger2._0",
+  "cli": {
+    "analytics": false
+  }
 }
